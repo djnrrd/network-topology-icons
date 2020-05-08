@@ -52,6 +52,7 @@ Some icons for specialist equipment I'm working with.
 Obtaining a copy
 ----------------
 ::
+
     git clone https://github.com/djnrrd/network-topology-icons.git
 
 License
