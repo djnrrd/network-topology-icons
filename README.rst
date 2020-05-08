@@ -33,7 +33,7 @@ Specialist Icons
 
 Some icons for specialist equipment I'm working with.
 
-.. figure:: icons/basic/network_tap.svg
+.. figure:: icons/taps_bypass/network_tap.svg
     :align: center
     :alt: Network Tap icon
     :figclass: align-center
@@ -41,7 +41,7 @@ Some icons for specialist equipment I'm working with.
     Network Tap icon
 
 
-.. figure:: icons/basic/bypass_switch.svg
+.. figure:: icons/taps_bypass/bypass_switch.svg
     :align: center
     :alt: Bypass Switch icon
     :figclass: align-center
